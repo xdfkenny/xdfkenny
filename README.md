@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Exorcising+bugs+with+Cryo+code;IB+DP+Student+%7C+Full-stack+Developer;Anime+modules+%7C+Kiosk+apps+%7C+MUN+portals;Discipline+is+the+foundation+of+all+success" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Exorcising+bugs+with+Cryo+code;IB+Certificate+Student+%7C+Full-stack+Developer;Anime+modules+%7C+Kiosk+apps+%7C+MUN+portals;Discipline+is+the+foundation+of+all+success" alt="Typing animation" />
 </p>
 
 <!-- Avatar with frost frame -->
@@ -28,7 +28,7 @@
 
 ## ❄️ About Me
 
-I'm an **IB DP Grade 11** student and a **vibe-coded full-stack developer** who believes clean code is the best exorcism.
+I'm an **IB Certificate** student and a **vibe-coded full-stack developer** who believes clean code is the best exorcism.
 
 - ⚔️ I build **web apps, kiosk systems, browser extensions, and anime streaming modules**.
 - 🧊 My Obsidian vault is literally themed around **Chongyun** — cryo aesthetics keep my notes frosty and focused.
