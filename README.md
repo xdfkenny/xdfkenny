@@ -40,11 +40,6 @@ I'm an **IB Certificate** student and a **vibe-coded full-stack developer** who 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=xdfkenny&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=xdfkenny&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdfkenny&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
 <p align="center">
