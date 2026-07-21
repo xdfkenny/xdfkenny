@@ -3,7 +3,7 @@
      ════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xdfkenny/xdfkenny/main/assets/cryo-banner.svg" alt="Chongyun cryo banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/xdfkenny/xdfkenny/main/assets/cryo-banner.svg?v=2" alt="Chongyun cryo banner" width="100%" />
 </p>
 
 <p align="center">
