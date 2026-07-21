@@ -6,10 +6,6 @@
   <img src="https://raw.githubusercontent.com/xdfkenny/xdfkenny/main/assets/cryo-banner.svg?v=2" alt="Chongyun cryo banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Exorcising+bugs+with+Cryo+code;IB+Certificate+Student+%7C+Full-stack+Developer;Anime+modules+%7C+Kiosk+apps+%7C+MUN+portals;Discipline+is+the+foundation+of+all+success&v=3" alt="Typing animation" />
-</p>
-
 <!-- Avatar with frost frame -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/193771869?v=4" width="160" alt="xdfkenny avatar" />
