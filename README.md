@@ -11,8 +11,9 @@ Full-stack developer & IB student. Building web apps, kiosk systems, and develop
 
 ---
 
-### Projects
+### Featured Projects
 
+- **[Astra-System](https://github.com/xdfkenny/Astra-System)** — Production-grade, offline-first automated self-checkout platform with 48h offline resilience and P2P mesh sync.
 - **[Self-Service Cafeteria](https://github.com/xdfkenny/selfservice-cafeteria)** — Nuxt 3 kiosk app with face recognition, admin ops, and P2P cache sharing.
 - **[CICMUN Delegate Portal](https://github.com/xdfkenny/CICMUN)** — Conference portal for CICMUN 2026 built with Nuxt 4 & Tailwind CSS 4.
 - **[xdfkenny Sora Modules](https://github.com/xdfkenny/xdfkenny-sora-modules)** — AI-vibe-coded anime streaming modules.
@@ -22,4 +23,4 @@ Full-stack developer & IB student. Building web apps, kiosk systems, and develop
 
 ### Tech Stack
 
-TypeScript · JavaScript · Vue · Nuxt · Node.js · Python · Rust · Tailwind CSS
+Go · Rust · TypeScript · JavaScript · Vue · Nuxt · Node.js · Python · Tailwind CSS
